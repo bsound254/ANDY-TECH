@@ -1,12 +1,12 @@
 /*
-🔒 File Di Enc Hard Oleh Gihh Hosting Supaya Orang Lain Tidak Sembarangan Untuk Rename!! Script Ini Aman 100% Tidak Ada Backdoor.
+🔒 File Di Enc Hard Oleh Andy Tech Supaya Orang Lain Tidak Sembarangan Untuk Rename!! Script Ini Aman 100% Tidak Ada Backdoor.
 
 ⟣━»I N F O R M A S I«━⟢
-👤Developer : ⏤͟͟͞͞Gihh Hosting ㄆ
-💻Bot Name : Simple Bot Shop
-📱WhatsApp 1 : +62882015082351
-📱WhatsApp 2 : +6282173284892
-💡Telegram : t.me/GihhNotSepuhh
+👤Developer : ⏤͟͟͞͞Andy Tech ㄆ
+💻Bot Name : Andy Tech Md
+📱WhatsApp 1 : +254743454830
+📱WhatsApp 2 : +254743454830
+💡Telegram : t.me/andyibraah
 
 Mau Order Yang No Enc + Free Update Selamanya?? Chat Contact Developer Yang Ada Di Atas.
 */
