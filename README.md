@@ -1,1 +1,0 @@
-# POPKID_XTECH
