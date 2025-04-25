@@ -4,19 +4,19 @@ const fs = require("fs");
 global.session = 'session' // Jangan Di Ubah
 
 //======= [ Setting ] =======\\
-global.owner = "62882015082351"
-global.creator = "Gihh Hosting"
-global.botNumber = "6282173284892"
+global.owner = "254743454830"
+global.creator = "Andy Tech"
+global.botNumber = "254743454830"
 global.botName = "Simple Bot Shop"
 global.delayPushkontak = "7000" // 1000 = 1 detik
 global.delayJpm = "5000" // 1000 = 1 detik
 global.idSaluran = "120363336758292547@newsletter"
-global.namaSaluran = "⏤͟͟͞͞Gihh Hosting - Maniac Script ㄆ"
+global.namaSaluran = "⏤͟͟͞͞Andy Tech - Maniac Script ㄆ"
 
 //======= [ Setting CloudFlare ] =======\\
 global.apitoken_cloudflare = "twXs3i-5OpvPdJWQcn0fvxIH-qrfKT1H8AvasC2w"
 global.accountid_cloudflare = "5d931e976a8e77d671c8d5a7be393303"
-global.email_cloudflare = "gihhdeveloper@gmail.com"
+global.email_cloudflare = "oyugiandrew20@gmail.com"
 
 //====== [ Setting API DigitalOcean ] ======\\
 global.apiDigitalOcean = "dop_v1_6db934f8b7ce25d49bcf188d49a94d3e57dce22fd851d758e62ec82d2ade6581"
@@ -25,7 +25,7 @@ global.apiDigitalOcean = "dop_v1_6db934f8b7ce25d49bcf188d49a94d3e57dce22fd851d75
 global.egg = "15" // Id Egg
 global.nestid = "5" // Id Nest
 global.loc = "1" // Id Location
-global.domain = "https://sellerpanelamanah.gihhdeveloper.biz.id"
+global.domain = "https://sellerpanelamanah.andydeveloper.biz.id"
 global.apikey = "ptla_CrBVrdxeuQgEbfYPGDwddgAySinaJmTDeLL4gLfzG69" // Plta
 global.capikey = "ptlc_U15dl8HSG69LiK5Cn9AxTPi6fLBhtMVW4rHFd0cKoMt" // Pltc
 
@@ -37,8 +37,8 @@ global.shopepay = "Tidak Tersedia"
 global.qris = "https://files.catbox.moe/8dqn8m.jpg"
 
 //====== [ Setting Link ] ======\\
-global.linkSaluran = "https://whatsapp.com/channel/0029VajqjcmAYlUHlImvMC3X"
-global.linkGrup = "https://whatsapp.com/channel/0029Vay2RwO9WtCDKicD0B0a"
+global.linkSaluran = "https://whatsapp.com/channel/0029Vb5QadiKLaHkk0yUWT1b"
+global.linkGrup = "https://whatsapp.com/channel/0029Vb5QadiKLaHkk0yUWT1b"
 
 //====== [ Setting Thumbnail ] ======\\
 global.imgmenu = "https://files.catbox.moe/bkiysm.jpg"
