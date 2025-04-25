@@ -1,0 +1,37 @@
+{
+  "name": "Simple Bot Shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "license": "ISC",
+  "description": "Gihh Developer",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro",
+    "axios": "^1.7.9",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0",
+    "cloudku-uploader": "^1.0.5",
+    "crypto": "^1.0.1",
+    "ffmpeg-static": "^5.2.0",
+    "file-type": "^16.5.4",
+    "fs": "^0.0.1-security",
+    "human-readable": "latest",
+    "jimp": "latest",
+    "moment-timezone": "^0.5.46",
+    "node-fetch": "^3.3.2",
+    "node-upload-images": "^1.0.1",
+    "ssh2": "^1.16.0",
+    "store": "^2.0.12",
+    "stream": "^0.0.3",
+    "util": "^0.12.5",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
