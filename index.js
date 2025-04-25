@@ -3,10 +3,10 @@
 
 ⟣━»I N F O R M A S I«━⟢
 👤Developer : ⏤͟͟͞͞Gihh Hosting ㄆ
-💻Bot Name : Simple Bot Shop
-📱WhatsApp 1 : +62882015082351
-📱WhatsApp 2 : +6282173284892
-💡Telegram : t.me/GihhNotSepuhh
+💻Bot Name : Andy Tech Bot
+📱WhatsApp 1 : +254743454830
+📱WhatsApp 2 : +254101083601
+💡Telegram : t.me/Andy
 
 Mau Order Yang No Enc + Free Update Selamanya?? Chat Contact Developer Yang Ada Di Atas.
 */
