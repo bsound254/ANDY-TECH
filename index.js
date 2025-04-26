@@ -2,7 +2,7 @@
 🔒 File Di Enc Hard Oleh Gihh Hosting Supaya Orang Lain Tidak Sembarangan Untuk Rename!! Script Ini Aman 100% Tidak Ada Backdoor.
 
 ⟣━»I N F O R M A S I«━⟢
-👤Developer : ⏤͟͟͞͞Gihh Hosting ㄆ
+👤Developer : ⏤͟͟͞͞Andy Tech ㄆ
 💻Bot Name : Andy Tech Bot
 📱WhatsApp 1 : +254743454830
 📱WhatsApp 2 : +254101083601
